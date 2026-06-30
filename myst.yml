@@ -15,6 +15,8 @@ project:
       affiliation: nus
     - name: Nabilla S. Bachtiar
       affiliation: itb
+    - name: Arsy Syamil H
+      affiliation: Tel-U
   affiliations:
     - id: brin
       name: Badan Riset dan Inovasi Nasional
@@ -33,8 +35,9 @@ project:
     - file: intro.md
     - file: chapters/01-statistika.md
     - file: chapters/02-aljabar.md
-    - file: chapters/03-mainmain.md  
+    - file: chapters/03-mainmain.md
     - file: chapters/04-kultum.md
+    - file: chapters/05.md
 site:
   title: Mekanika Kuantum Minimalis 2.0
   template: book-theme
